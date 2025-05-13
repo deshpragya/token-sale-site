@@ -1,7 +1,7 @@
 let provider, signer, contract;
 
 // Replace with your actual deployed SCTSale contract address
-const contractAddress = "0x8a3B010c8a2292ce0A788900F73414B477C7d9D5"; // STCSale
+const contractAddress = "0x3EE121c799919893B59E350898561e954A857623"; // STCSale
 const contractABI = [  // simplified ABI just for `buyTokens` function
 
 	{
